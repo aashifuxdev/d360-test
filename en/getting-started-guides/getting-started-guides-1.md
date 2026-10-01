@@ -10,7 +10,8 @@ feedback:
   comments: true
 ---
 
-made changes here
+made changes here. from git as well
+
 
 [d360]: # 'heading id="getting-started-with-productservice-name"'
 
